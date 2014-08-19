@@ -1,3 +1,13 @@
+/*
+Optometric Calculator: A Console Application
+@Author: Dr. Calvin Vance III
+@Environment: Created on Windows 7 using Visual Studio Express 2013 x86
+
+The purpose of this application is to create a light weight calculator that supports
+fast and easy in office calculations during an exam. This console application
+allows for Vertex Conversion, Base Curve Conversion, and more.
+*/
+
 #include"VertexConverter.h"
 #include"BaseCurveConverter.h"
 

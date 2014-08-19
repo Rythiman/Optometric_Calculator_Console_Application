@@ -3,7 +3,7 @@
 
 BaseCurveConverter::BaseCurveConverter()
 {
-	std::cout << "Starting Base Curve Converter..." << std::endl
+	std::cout << "Starting Base Curve Converter..." << std::endl;
 	double input;
 	std::cout << "Enter Base Curve or Diopter: ";
 	std::cin >> input;
